@@ -20,7 +20,7 @@
 
 4. Find `token` in Local Storage and copy its value
 
-## VPS deployment tutorial
+5. Example : eyJhbGc , eyJhbGc
 
 ### 1. Preparation
 
